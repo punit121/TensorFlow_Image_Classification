@@ -1,0 +1,1 @@
+{"sports_car_sport_car": 0.7890206575393677, "racer_race_car_racing_car": 0.06227881461381912, "car_wheel": 0.04753847047686577, "passenger_car_coach_carriage": 0.003931399900466204, "crash_helmet": 0.0031023432966321707}
