@@ -1,1 +1,1 @@
-{"sports_car_sport_car": 0.7890206575393677, "racer_race_car_racing_car": 0.06227881461381912, "car_wheel": 0.04753847047686577, "passenger_car_coach_carriage": 0.003931399900466204, "crash_helmet": 0.0031023432966321707}
+{"mountain_bike_all-terrain_bike_off-roader": 0.8339852094650269, "disk_brake_disc_brake": 0.02198651060461998, "bicycle-built-for-two_tandem_bicycle_tandem": 0.018617937341332436, "tricycle_trike_velocipede": 0.005793403368443251, "sleeping_bag": 0.004553769249469042}
