@@ -1,1 +1,1 @@
-{"mountain_bike_all-terrain_bike_off-roader": 0.8339852094650269, "disk_brake_disc_brake": 0.02198651060461998, "bicycle-built-for-two_tandem_bicycle_tandem": 0.018617937341332436, "tricycle_trike_velocipede": 0.005793403368443251, "sleeping_bag": 0.004553769249469042}
+{"desktop_computer": 0.4194994866847992, "notebook_notebook_computer": 0.11787520349025726, "screen_CRT_screen": 0.11378388851881027, "space_bar": 0.06327304244041443, "laptop_laptop_computer": 0.03319428488612175}
